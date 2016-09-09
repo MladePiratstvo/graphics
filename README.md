@@ -1,4 +1,4 @@
 # graphics
 Naša grafické podklady
 
-P5idávejte složky tématicky pro jednotlivé dokumenty, podklady
+Přidávejte složky tématicky pro jednotlivé dokumenty, podklady, kampaňe.
